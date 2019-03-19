@@ -1,0 +1,49 @@
+body{
+  background-color: midnightblue;
+  margin: 0;
+  text-align: center;
+  font-family: fantasy;
+  font-size: 30px;
+  }
+  h1{color: mediumturquoise;
+    width:10%;
+    margin: 0 auto 0 auto;
+  }
+div{
+  background-color: red;
+}
+top-container{
+  background-color: midnightblue;
+  position: relative;
+  padding-top: 100px;
+}
+.bottom-cloud{
+  position: absolute;
+}
+.domain{
+  position: relative;
+  top: 725px;
+  left: 400px;
+  height: 200px;
+  width: 200px;
+}
+p{
+  color: mediumturquoise;
+}
+div{
+  background-color: midnightblue;
+}
+.programmer{
+  height: 200px;
+}
+.brain{
+  height: 300px;
+  width: 300px;
+}
+.data{
+  height: 150px;
+  width: 150px;
+  position: relative;
+  top:375px;
+  right: 300px;
+}
